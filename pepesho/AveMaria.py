@@ -75,4 +75,4 @@ class ChinggisKhan:
 
 
 
-bot.run('Nzg1OTU3MDQxMDc1NzgxNjQ0.X8_ZiA.MB-ddFezX_e1ObJ5SxT4MKM_0S0')
+bot.run('Thy Token')
